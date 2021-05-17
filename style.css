@@ -1,0 +1,64 @@
+h1 {
+  color:#56ffd7;
+  font-size:35px;
+  font-family:helvetica;
+}
+h2{
+  color:black;
+  font-size:25px;
+  font-family: helvetica;
+}
+body{
+  font-family:helvetica;
+}
+a:link{
+  color:#bcbcbc;
+}
+a:visited
+{
+  color:#bcbcbc;
+}
+a:hover{
+  color:#363837;
+}
+a:active
+{
+  color:#bcbcbc;
+}
+p{
+  font-family:helvetica;
+  font-size:20px;
+  color:black;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  border: 0;
+	list-style: none;
+}
+li{
+  float: left;
+  margin-right: 6%;
+}
+section{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  vertical-align: baseline;
+  display: block;
+  float: left;
+  height:150%;
+}
+#image{
+  width:40%
+}
+#aboutme{
+  width:55%;
+  margin-left: 5%;
+  margin-top: 15%;
+}
+#link{
+  font-size:20px;
+  text-decoration:none;
+  font-weight: bold;
+}
